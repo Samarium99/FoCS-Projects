@@ -1,4 +1,7 @@
 # Project-00-Further-Enlightenment-
+2/28/2025 | Foundations of CS Assignment | HTML/CSS Webpages
+
+Contents:
 APChem Review for units 4, 6, 7 (focusing on formulas)
 
 Contains optional js to implement mathjax for LaTeX - commented out
