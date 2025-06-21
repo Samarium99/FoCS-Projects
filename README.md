@@ -2,9 +2,8 @@
 > The FoCS projects focus on the use of running webpages through a webserver (@homer.stuy.edu). Python code is run using deprecated cgi rather than Flask library.
 
 # Foundations of Computer Science II Final Project
--  (located in final folder)
-  
 6/16/2025 | Foundations of CS Assignment | Python/HTML/CSS/(JS) Webpages, cgi.fieldstorage
+-  (located in final folder)
 
 ### Project Description
 A cat and mouse hide-and-seek styled game in which the player(mouse) pursues cheese across five potential rooms, evading the grasp of the cat.
@@ -20,9 +19,8 @@ This project involves:
 Potential advancements on this project would include the addition of a 'peek' mechanic to the game, allowing the player to spy into specific rooms, which would impact the odds of being identified by the cat and the generation of random maps and Markov Chain frequencies.
 
 # Project-00-Further-Enlightenment-
-- (located in site folder)
-  
 2/28/2025 | Foundations of CS Assignment | HTML/CSS Webpages
+- (located in site folder)
 
 ### Contents:
 > - APChem Review for units 4, 6, 7 (focusing on formulas)
