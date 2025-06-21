@@ -15,6 +15,8 @@ This project involves:
 > - Markov Chain + Random Library to generate the cat's next room.
 > - minimal JavaScript, mainly for the purpose of editing minor details of the HTML form.
 
+Potential advancements on this project would include the addition of a 'peek' mechanic to the game, allowing the player to spy into specific rooms, which would impact the odds of being identified by the cat and the generation of random maps and Markov Chain frequencies.
+
 # Project-00-Further-Enlightenment-
 2/28/2025 | Foundations of CS Assignment | HTML/CSS Webpages
 
