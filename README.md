@@ -2,7 +2,7 @@
 > The FoCS projects focus on the use of running webpages through a webserver (@homer.stuy.edu). Python code is run using deprecated cgi rather than Flask library.
 
 # Foundations of Computer Science II Final Project
-> (final folder)
+>> (final folder)
 6/16/2025 | Foundations of CS Assignment | Python/HTML/CSS/(JS) Webpages, cgi.fieldstorage
 
 ### Project Description
