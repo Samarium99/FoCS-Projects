@@ -3,7 +3,7 @@
 
 # Foundations of Computer Science II Final Project
 -  (located in final folder)
--  
+  
 6/16/2025 | Foundations of CS Assignment | Python/HTML/CSS/(JS) Webpages, cgi.fieldstorage
 
 ### Project Description
@@ -21,6 +21,7 @@ Potential advancements on this project would include the addition of a 'peek' me
 
 # Project-00-Further-Enlightenment-
 - (located in site folder)
+  
 2/28/2025 | Foundations of CS Assignment | HTML/CSS Webpages
 
 ### Contents:
